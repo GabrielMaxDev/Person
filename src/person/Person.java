@@ -1,4 +1,4 @@
-package person;
+package person
 
 // This class will define a person and the information about a person that is needed
 public class Person {
